@@ -26,7 +26,7 @@ Is it useful? IDK, you tell me. 
 *	https://github.com/skylot/jadx - Dex to Java decompiler - reverse all the things!
 
 ### Networking Related
-*	https://github.com/lgandx/PCredz - "This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface." - hmm. what possible use could this be in our environment??
+*	https://github.com/lgandx/PCredz - "This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface." - hmm. what possible use could I have for this??
 
 ### Bypass Techiques
 *	https://github.com/greatsct/greatsct - "Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team." - no way you're getting past Carbon Black. Unless... four days ago they added Ben0xA's NPS HTA payload. Danger Will Robinson! Danger!
